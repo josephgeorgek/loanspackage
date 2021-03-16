@@ -1,0 +1,31 @@
+code: test3ent-bundle
+description: This is the test3ent bundle
+
+components:
+  plugins:
+    - plugins/test3ent-plugin.yaml
+
+  widgets:
+    - ui/widgets/loan-application/tableWidget/loan-application-table-widget-descriptor.yaml
+    - ui/widgets/loan-application/detailsWidget/loan-application-details-widget-descriptor.yaml
+    - ui/widgets/loan-application/formWidget/loan-application-form-widget-descriptor.yaml
+    - ui/widgets/conference/tableWidget/conference-table-widget-descriptor.yaml
+    - ui/widgets/conference/detailsWidget/conference-details-widget-descriptor.yaml
+    - ui/widgets/conference/formWidget/conference-form-widget-descriptor.yaml
+    - ui/widgets/product/tableWidget/product-table-widget-descriptor.yaml
+    - ui/widgets/product/detailsWidget/product-details-widget-descriptor.yaml
+    - ui/widgets/product/formWidget/product-form-widget-descriptor.yaml
+    - ui/widgets/product-category/tableWidget/product-category-table-widget-descriptor.yaml
+    - ui/widgets/product-category/detailsWidget/product-category-details-widget-descriptor.yaml
+    - ui/widgets/product-category/formWidget/product-category-form-widget-descriptor.yaml
+    - ui/widgets/customer/tableWidget/customer-table-widget-descriptor.yaml
+    - ui/widgets/customer/detailsWidget/customer-details-widget-descriptor.yaml
+    - ui/widgets/customer/formWidget/customer-form-widget-descriptor.yaml
+    - ui/widgets/product-package/tableWidget/product-package-table-widget-descriptor.yaml
+    - ui/widgets/product-package/detailsWidget/product-package-details-widget-descriptor.yaml
+    - ui/widgets/product-package/formWidget/product-package-form-widget-descriptor.yaml
+    - ui/widgets/loan-product/tableWidget/loan-product-table-widget-descriptor.yaml
+    - ui/widgets/loan-product/detailsWidget/loan-product-details-widget-descriptor.yaml
+    - ui/widgets/loan-product/formWidget/loan-product-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

@@ -1,0 +1,6 @@
+code: product-category-form-widget
+titles:
+  en: Product Category Form Widget
+  it: Product Category Form Widget
+group: free
+customUiPath: product-category-form-widget.ftl

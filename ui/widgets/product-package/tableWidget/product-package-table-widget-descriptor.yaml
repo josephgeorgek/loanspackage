@@ -1,0 +1,6 @@
+code: product-package-table-widget
+titles:
+  en: Product Package Table Widget
+  it: Product Package Table Widget
+group: free
+customUiPath: product-package-table-widget.ftl

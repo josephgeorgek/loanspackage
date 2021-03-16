@@ -1,0 +1,6 @@
+code: loan-application-table-widget
+titles:
+  en: Loan Application Table Widget
+  it: Loan Application Table Widget
+group: free
+customUiPath: loan-application-table-widget.ftl

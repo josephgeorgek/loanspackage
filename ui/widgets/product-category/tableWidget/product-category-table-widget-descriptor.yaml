@@ -1,0 +1,6 @@
+code: product-category-table-widget
+titles:
+  en: Product Category Table Widget
+  it: Product Category Table Widget
+group: free
+customUiPath: product-category-table-widget.ftl

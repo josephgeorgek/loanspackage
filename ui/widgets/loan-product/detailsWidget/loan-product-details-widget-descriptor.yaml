@@ -1,0 +1,6 @@
+code: loan-product-details-widget
+titles:
+  en: Loan Product Details Widget
+  it: Loan Product Details Widget
+group: free
+customUiPath: loan-product-details-widget.ftl
